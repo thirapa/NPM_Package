@@ -1,0 +1,20 @@
+{
+  "name": "thirapa_package",
+  "version": "1.0.0",
+  "description": "Test Package!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirapa/NPM_Package.git"
+  },
+  "keywords": [
+    "thirapa",
+    "npm_test_package1"
+  ],
+  "author": "Thirapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thirapa/NPM_Package/issues"
+  },
+  "homepage": "https://github.com/thirapa/NPM_Package#readme"
+}
