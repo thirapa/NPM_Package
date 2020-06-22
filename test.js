@@ -1,2 +1,2 @@
 var test = require('./index.js');
-console.log(test.hello('Thirapa'));
+console.log(test('Thirapa'));
