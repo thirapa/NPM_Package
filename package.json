@@ -1,6 +1,6 @@
 {
   "name": "thirapa_package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test Package!",
   "main": "index.js",
   "repository": {
