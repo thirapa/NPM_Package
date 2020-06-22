@@ -1,4 +1,4 @@
-# _**Hello!, This Package just test.**_
+# **Hello!, This Package just test.**
 
 ## **Installation**
 
@@ -15,4 +15,10 @@ $ npm i thirapa_package
 ``` bash
 const test = require('thirapa_package');
 console.log(test('Thirapa'));
+```
+
+## **Result**
+
+``` bash
+Hello Thirapa
 ```
